@@ -1,0 +1,7 @@
+{
+  "name": "Xe Ghép Thanh Hoá - Hà Nội VIP",
+  "description": "Dịch vụ đặt xe ghép, xe tiện chuyến Thanh Hoá - Hà Nội uy tín, giá rẻ, đón trả tận nơi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
