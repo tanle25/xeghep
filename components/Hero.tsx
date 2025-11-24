@@ -9,7 +9,7 @@ const Hero = () => {
   };
 
   return (
-    <div className="relative min-h-[90vh] flex items-center pt-20">
+    <div id="about" className="relative min-h-[90vh] flex items-center pt-20">
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
@@ -46,9 +46,9 @@ const Hero = () => {
             </button>
             <a 
               href="tel:0988888888"
-              className="bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/30 text-white font-bold py-4 px-8 rounded-full transition-all"
+              className="bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/30 text-white font-bold py-4 px-8 rounded-full transition-all flex items-center gap-2"
             >
-              Gọi Hotline
+              <span>Hotline 098.888.8888</span>
             </a>
           </div>
 
